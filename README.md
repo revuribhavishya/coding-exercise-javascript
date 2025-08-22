@@ -5,5 +5,5 @@ The exercises covers below concepts:
 - Arrays, maps, sets, and destructuring  
 - Promises, async/await, and callbacks  
 - Different ways of declaring and overloading functions  
-- Looping techniques (`forEach`, `map`, `reduce`, `for...of`)  
+- Looping techniques (forEach, map, reduce, for...of)  
  
